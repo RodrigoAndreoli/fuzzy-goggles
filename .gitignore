@@ -1,0 +1,23 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/lazoblancoFront/node_modules
+/lazoblancoFront/.pnp
+/lazoblancoFront/.pnp.js
+
+# testing
+/lazoblancoFront/coverage
+
+# production
+/lazoblancoFront/build
+
+# misc
+/lazoblancoFront/.DS_Store
+/lazoblancoFront/.env.local
+/lazoblancoFront/.env.development.local
+/lazoblancoFront/.env.test.local
+/lazoblancoFront/.env.production.local
+
+/lazoblancoFront/npm-debug.log*
+/lazoblancoFront/yarn-debug.log*
+/lazoblancoFront/yarn-error.log*
